@@ -1,0 +1,120 @@
+[2025-10-24 12:46:23] [App3] [INFO]: Sensor value out of range
+[2025-10-24 12:46:26] [App3] [WARN]: Sensor value out of range
+[2025-10-24 12:46:27] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 12:46:28] [App3] [WARN]: API request timeout
+[2025-10-24 12:46:30] [App3] [INFO]: Memory usage high
+[2025-10-24 12:46:31] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 12:46:33] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 12:46:34] [App3] [WARN]: Disk space low
+[2025-10-24 12:46:37] [App3] [ERROR]: Memory usage high
+[2025-10-24 12:46:40] [App3] [INFO]: Sensor value out of range
+[2025-10-24 12:46:41] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 12:46:43] [App3] [WARN]: Disk space low
+[2025-10-24 12:46:44] [App3] [ERROR]: Memory usage high
+[2025-10-24 12:46:45] [App3] [INFO]: Memory usage high
+[2025-10-24 12:46:47] [App3] [ERROR]: Memory usage high
+[2025-10-24 12:46:50] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 12:46:51] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 12:46:53] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 12:46:54] [App3] [INFO]: Memory usage high
+[2025-10-24 12:46:56] [App3] [ERROR]: Disk space low
+[2025-10-24 12:50:39] [App3] [ERROR]: Memory usage high
+[2025-10-24 12:50:41] [App3] [WARN]: Disk space low
+[2025-10-24 12:50:42] [App3] [WARN]: API request timeout
+[2025-10-24 12:50:44] [App3] [INFO]: Sensor value out of range
+[2025-10-24 12:50:45] [App3] [WARN]: Memory usage high
+[2025-10-24 12:50:46] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 12:50:48] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 12:50:49] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 12:50:51] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 12:50:52] [App3] [WARN]: Disk space low
+[2025-10-24 12:50:54] [App3] [WARN]: API request timeout
+[2025-10-24 12:50:57] [App3] [ERROR]: Disk space low
+[2025-10-24 12:50:58] [App3] [ERROR]: Disk space low
+[2025-10-24 12:51:01] [App3] [INFO]: API request timeout
+[2025-10-24 12:51:03] [App3] [WARN]: Sensor value out of range
+[2025-10-24 12:51:05] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 12:51:07] [App3] [ERROR]: Disk space low
+[2025-10-24 12:51:10] [App3] [ERROR]: Memory usage high
+[2025-10-24 12:51:11] [App3] [WARN]: Disk space low
+[2025-10-24 12:51:12] [App3] [ERROR]: Disk space low
+[2025-10-24 13:06:57] [App3] [WARN]: Sensor value out of range
+[2025-10-24 13:07:00] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 13:07:02] [App3] [WARN]: API request timeout
+[2025-10-24 13:07:05] [App3] [WARN]: Disk space low
+[2025-10-24 13:07:07] [App3] [INFO]: Memory usage high
+[2025-10-24 13:07:08] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 13:07:10] [App3] [INFO]: Disk space low
+[2025-10-24 13:07:11] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 13:07:12] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 13:07:13] [App3] [WARN]: Disk space low
+[2025-10-24 13:07:15] [App3] [ERROR]: Disk space low
+[2025-10-24 13:07:16] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 13:07:19] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 13:07:20] [App3] [INFO]: Disk space low
+[2025-10-24 13:07:22] [App3] [ERROR]: API request timeout
+[2025-10-24 13:07:25] [App3] [INFO]: Memory usage high
+[2025-10-24 13:07:26] [App3] [WARN]: Sensor value out of range
+[2025-10-24 13:07:29] [App3] [WARN]: Disk space low
+[2025-10-24 13:07:31] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 13:07:32] [App3] [ERROR]: Memory usage high
+[2025-10-24 14:13:08] [App3] [ERROR]: API request timeout
+[2025-10-24 14:13:11] [App3] [INFO]: Disk space low
+[2025-10-24 14:13:14] [App3] [WARN]: Disk space low
+[2025-10-24 14:13:17] [App3] [ERROR]: Memory usage high
+[2025-10-24 14:13:18] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 14:13:19] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 14:13:22] [App3] [ERROR]: API request timeout
+[2025-10-24 14:13:24] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 14:13:25] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 14:13:27] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 14:13:28] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 14:13:30] [App3] [ERROR]: API request timeout
+[2025-10-24 14:13:31] [App3] [ERROR]: Memory usage high
+[2025-10-24 14:13:33] [App3] [INFO]: Sensor value out of range
+[2025-10-24 14:13:35] [App3] [WARN]: Sensor value out of range
+[2025-10-24 14:13:36] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 14:13:38] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 14:13:41] [App3] [INFO]: Sensor value out of range
+[2025-10-24 14:13:43] [App3] [INFO]: Memory usage high
+[2025-10-24 14:13:44] [App3] [WARN]: Disk space low
+[2025-10-24 14:51:15] [App3] [ERROR]: Disk space low
+[2025-10-24 14:51:16] [App3] [INFO]: Disk space low
+[2025-10-24 14:51:17] [App3] [WARN]: API request timeout
+[2025-10-24 14:51:19] [App3] [ERROR]: Disk space low
+[2025-10-24 14:51:19] [App3] [ERROR]: API request timeout
+[2025-10-24 14:51:20] [App3] [INFO]: Memory usage high
+[2025-10-24 14:51:23] [App3] [INFO]: Sensor value out of range
+[2025-10-24 14:51:26] [App3] [ERROR]: Disk space low
+[2025-10-24 14:51:27] [App3] [WARN]: Memory usage high
+[2025-10-24 14:51:30] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 14:51:31] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 14:51:34] [App3] [ERROR]: Disk space low
+[2025-10-24 14:51:35] [App3] [INFO]: Disk space low
+[2025-10-24 14:51:38] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 14:51:39] [App3] [INFO]: API request timeout
+[2025-10-24 14:51:41] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 14:51:42] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 14:51:44] [App3] [ERROR]: API request timeout
+[2025-10-24 14:51:45] [App3] [INFO]: API request timeout
+[2025-10-24 14:51:47] [App3] [INFO]: API request timeout
+[2025-10-24 15:02:40] [App3] [INFO]: Disk space low
+[2025-10-24 15:02:41] [App3] [INFO]: Sensor value out of range
+[2025-10-24 15:02:43] [App3] [WARN]: Unauthorized access attempt
+[2025-10-24 15:02:45] [App3] [WARN]: Disk space low
+[2025-10-24 15:02:48] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 15:02:50] [App3] [ERROR]: Disk space low
+[2025-10-24 15:02:51] [App3] [ERROR]: Memory usage high
+[2025-10-24 15:02:53] [App3] [ERROR]: API request timeout
+[2025-10-24 15:02:55] [App3] [INFO]: Memory usage high
+[2025-10-24 15:02:58] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 15:03:01] [App3] [INFO]: Disk space low
+[2025-10-24 15:03:02] [App3] [WARN]: Disk space low
+[2025-10-24 15:03:04] [App3] [INFO]: Unauthorized access attempt
+[2025-10-24 15:03:07] [App3] [ERROR]: Unauthorized access attempt
+[2025-10-24 15:03:09] [App3] [ERROR]: Disk space low
+[2025-10-24 15:03:10] [App3] [INFO]: Memory usage high
+[2025-10-24 15:03:12] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 15:03:15] [App3] [ERROR]: Sensor value out of range
+[2025-10-24 15:03:17] [App3] [WARN]: API request timeout
+[2025-10-24 15:03:21] [App3] [WARN]: Unauthorized access attempt
