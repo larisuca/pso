@@ -108,7 +108,7 @@ int main(int argc, char *argv[]) {
     GtkTextBuffer *buffer = gtk_text_view_get_buffer(GTK_TEXT_VIEW(text_view));
     GtkTextTagTable *table = gtk_text_buffer_get_tag_table(buffer);
 
-    // 🎨 Taguri cu culori
+    //  Taguri cu culori
     GtkTextTag *info_tag = gtk_text_tag_new("info_tag");
     g_object_set(info_tag, "foreground", "green", NULL);
     gtk_text_tag_table_add(table, info_tag);
